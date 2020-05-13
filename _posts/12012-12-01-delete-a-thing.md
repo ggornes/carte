@@ -15,6 +15,7 @@ This method allows the user to post a new thing to his stuff.
 * The headers must include a **valid authentication token**.
 * **The body is omitted**.
 
+
 ### Response
 
 Sends back a collection of things.
